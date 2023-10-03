@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Villalobos-Gonzalez;Santiago;;;
+FN:Santiago Villalobos-Gonzalez
+TEL;TYPE=work,voice:8446652665
+EMAIL;TYPE=other:santiagodejesusvillalobosgonzalez@execs.com
+ORG:Ores & Company
+TITLE:Owner
+URL:https://oresancompany.com
+ADR;TYPE=other:;;;Newark;California;;
+X-ID:ae7f4b4991f14661a79be6f560d1b915
+X-ETAG:fffffe7508befcff68be45c97f55c5c47a1933ec0c0c570e747f361c
+X-FC-TAGS:6e1580a9-622c-11ee-88e9-12f5e43460c7
+X-FC-LIST-ID:25fee24f32dd758ec77cb40f20c755cd342c12cc
+CATEGORIES:Executives
+PRODID:ez-vcard 0.9.14-fc
+END:VCARD
+
