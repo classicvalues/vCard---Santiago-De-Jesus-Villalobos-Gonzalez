@@ -25,7 +25,7 @@ ANTIGUO TESTAMENTO
     Esdras-             Libro II, llamado tambein de    482
         NEHMIAS
     Libro de Tobias                                     497
-    Libro de Judit                                       508
+    Libro de Judit                                      508
     Libro de Ester                                      522
     Libro de Job                                        535
     Libro de los Salmos                                 568
@@ -64,59 +64,70 @@ Indice General
 
 LAMINAS EN COLORES                      despues de la pagina
     La Basilica de San Pedro y el Vaticano              26
-    Carta Encilica del Papa Pio XII                     
+    Noe                                                 26
+    Abraham                                             58 
+    Jacob                                               90
+    Jose                                                122
+    Moises                                              250
+    Samson                                              282
+    Samuel y David                                      346
+    Salomon                                             
+    Elias                                               
+    Ester y Daniel                                      
+    La Tierra Santa                                     
+    Santuarios Catolicos y Lugares de Romeria           
 
 ALBUM DE FAMILIA                        despues de la pagina
                                                         1114
-    Libro del Genesis                                   
-    Libro de Exodo                                       
-    Libro de Levitico                                   
-    Libro de los Numeros                                
-    Libro del Deuteronomio                              
-    Libro de Josue                                      
-    Libro de los Jueces                                 
-    Libro de Rut                                        
-    Los Reyes-          Libro I                         
-                        Libro II                        
-                        Libro III                       
-                        Libro IV                        
-    Los Paralipomenos-  Libro I                         
-    Los Paralipomenos-  Libro II                        
-    Esdras-             Libro I                         
-    Esdras-             Libro II, llamado tambein de    
-        NEHMIAS
-    Libro de Tobias                                     
-    Libro de Judit                                      
-    Libro de Ester                                      
-    Libro de Job                                        
-    Libro de los Salmos                                 
-    Libro de los Proverbios o Parabolas de Salomon      
-    Libro de Eclesiastes                                
-    El Cantar de Cantares                               
-    Libro de Sabiduria                                  
-    Libro de Eclesiasticos                              
-    Advertencia sobre los Profetas en general           
-    Libro Profecia de Isaias                            
-    La Profecia de Jeremias                             
-    Trenos o lamentaciones de Jeremias                  
-    La Profecia de Baruc                                
-    La Profecia de Ezequiel                             
-    La Profecia de Daniel                               
-    Advertenca general sobre los doce Profetas menores  
-    La Profecia de Oseas                                
-    La Profecia de Joel                                 
-    La Profeciaa de Amos                                
-    La Profecia de Abdias                               
-    La Profecia de Jonas                                
-    La Profecia de Miqueas                              
-    La Profecia de Nahum                                
-    La Profecia de Habacuc                              
-    La Profecia de Sofonias                             
-    La Profecia de Ageo                                 
-    La Profecia de Zacarias                             
-    La Profecia de Malaquias                            
-    Los Macabeos-       Libro I                         
-                        Libro II                        
+
+NUEVO TESTAMENTO                                       pagina
+    El Santo Evangelio de Nuestro Senor Jesucristo segun 
+        San Mateo                                       1109
+    El Santo Evangelio de Nuestro Senor Jesucristo segun
+        San Marcos                                      1144
+    El Santo Evangelio de Nuestro Senor Jesucristo segun
+        San Lucas                                       1166
+    El Santo Evangelio de Nuestro Senor Jesucristo segun
+        San Juan                                        1202
+    Los Hechos de los Apostoles                         1230
+    Epistola del Apostol San Pablo a los romanos        1265
+    Epistola primera del Apostol San Pablo a los 
+        corintios                                       1282
+    Epistola segunda del Apostol San Pablo a los 
+        corintios                                       1299
+    Epistola del Apostol San Pablo a los galatas        1310
+    Epistola del Apostol Sam Pablo a los efesios        1317
+    Epistola del Apostol San Pablo a los filipenses     1323
+    Epistola del Apostol San Pablo a los colosenses     1327
+    Epistola primera del Apostol San Pablo a los 
+        tesalonicenses                                  1331
+    Epistola segunda del Apostol San Pablo a los 
+        tesalonicenses                                  1335
+    Epistola primera del Apostol San Pablo a Timoteo    1337
+    Epistola segunda del Apostol San Pablo a Timoteo    1342
+    Epistola del Apostol San Pablo a Tito               1346
+    Epistola del Apostol San Pablo a Filemon            1348
+    Epistola del Apostol San Pablo a los hebereos       1350
+    Epistola catolica del Apostol Santiago              1363
+    Epistola primera del Apostol San Pedro              1368
+    Epistola segunda del Apostol San Pedro              1373
+    Epistola primera del Apostol San Juan               1376
+    Epistola segunda del Apostol San Juan               1381
+    Epistola tercera del Apostol San Judas              1382
+    Epistola catolica del Apostol San Judas             1383
+    El Apocalipsis o revelacion del Apostol San Juan    1385
+
+DICCIONARIO CATOLICO PARA NUESTRO HOGAR - 
+    Noras Generales                                     1405
+
+ALBUM DE FAMILIA                        despues de la pagina
+    La Vida de Cristo                                   1146
+    El Via Crucis                                       1242
+    El Rosario de Nuestra Senora                        1338
+    El Santo Sacrificio de la Misa                      1370
+
+ALBUM DE FAMILIA                                        pagina
+    El Imperio Romano                                   1108
 
 **************************************************************
 
